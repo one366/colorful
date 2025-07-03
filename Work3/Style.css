@@ -1,0 +1,22 @@
+p {
+ color:rgb(0, 0, 0);
+font-size: 50px;
+font-family:'Arial',sans-serif;
+font-weight: bold;
+text-align: center;
+border:solid rgb(0, 0, 0) ;
+text-decoration:underline  ;
+font-style: normal;
+line-height: 1,6;
+background-color: rgb(187, 202, 101);
+}
+.header {
+background-color: rgb(21, 21, 99);
+background-image: -moz-element();
+}
+#aa{
+    color: blue;
+}
+body {
+background-color: rgb(70, 245, 186);
+}
